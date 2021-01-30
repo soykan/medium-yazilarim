@@ -90,5 +90,5 @@ Image 2
  [185 171 150 113 82 62]
  [252 208 137 75 59 49]]
  ```
-<br/><br/>
+<br/>
 Yazımız burda bitiyor. İyi çalışmalar.
