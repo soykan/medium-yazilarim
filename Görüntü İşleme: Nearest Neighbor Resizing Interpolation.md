@@ -41,8 +41,9 @@ interpolate('bicubic', cv2.INTER_CUBIC)
 ```
 
 Yukarıdaki Python kodları 3x3 boyutundaki resmimize sırasıyla Nearest Neighbor, Bilinear, Bicubic Interpolation algoritmalarını 6x6 boyutuna getirmek üzere uyguluyor. Siz de kendi sisteminizde çalıştırıp herhangi bir tuşa basarak sırasıyla algoritmaların verdiği pencere ve konsol çıktılarını inceleyebilirsiniz. Çıktıları aşağıda sırasıyla veriyorum.
-```
+
 Konsol çıktısı:
+```
 nearest neighbor
 Image 1
 [[100 150 250]
@@ -80,4 +81,5 @@ Image 2
  [ 27 80 168 205 171 151]
  [ 73 110 172 175 117 83]
  [185 171 150 113 82 62]
- [252 208 137 75 59 49]]```
+ [252 208 137 75 59 49]]
+ ```
