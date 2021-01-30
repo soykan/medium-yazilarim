@@ -1,4 +1,4 @@
-Görüntü İşleme: Nearest Neighbor Resizing Interpolation
+### Görüntü İşleme: Nearest Neighbor Resizing Interpolation<br/><br/>
 Bu yazıda sizlere bir resmin daha büyük hale getirilmesi sırasında kullanılan Nearest Neighbor Resizing Interpolation işlemini anlatmaya çalışacağım.<br/><br/>
 Elimizde 500x500 pixel değerinde bir resim olduğunu düşünelim. Bunu bir buçuk katına yani 750x750 pixel boyutuna büyültmek istediğimizi varsayalım. Bunu sağlamak üzere uygulayabileceğimiz algoritmalardan 3 tanesinin birincisi Nearest Neighbor Intepolation ve diğer ikisi ise Bilinear Interpolation ve Bicubic Interpolation. Ben bir resmin büyültülmesini sağlayan algoritmalardan en basitini yani Nearest Neighbor Interpolation uygulamasını anlatmaya çalışacağım ve diğer ikisini de birincisiyle birlikte uygulama üzerinde göstereceğim.<br/><br/>
 Elimizdeki resmi bir buçuk katına büyültmek üzere algoritmamız şöyle çalışıyor. Resimler bilgisayarda şöyle bir mantıkta tutuluyor f(x, y) şeklinde bir fonksiyonumuz olduğunu düşünelim. x değeri pikselin yatay konumunu belirtirken y değeri ise pikselin dikey konumunu belirtiyor. x ve y her ikisi de 0 veya 0 dan büyük sayılardır.<br/><br/>
