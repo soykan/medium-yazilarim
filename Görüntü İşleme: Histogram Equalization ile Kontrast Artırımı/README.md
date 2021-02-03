@@ -129,4 +129,9 @@ cv2.imshow('Lena', lena)
 cv2.waitKey(0)
 ```
 
+Düşük kontrast değerine sahip girdi resmimiz:
+![lena-low-contrast](lena-low-contrast.png)
+<br/>
+![lena](lena.png)
+
 Yazımız burda bitiyor. İyi çalışmalar.
