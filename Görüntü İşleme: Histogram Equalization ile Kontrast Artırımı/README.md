@@ -130,8 +130,11 @@ cv2.waitKey(0)
 ```
 
 Düşük kontrast değerine sahip girdi resmimiz:
+<br/>
 ![lena-low-contrast](lena-low-contrast.png)
 <br/>
+Histogram equalization sonrası çıktı resmimiz:
+<br/>
 ![lena](lena.png)
-
+<br/>
 Yazımız burda bitiyor. İyi çalışmalar.
