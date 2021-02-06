@@ -35,13 +35,13 @@ cv2.imshow('After noise reduction', dst)
 
 cv2.waitKey(0)
 ```
-
+<br/><br/>
 Girdi resmimiz:
-<br/>
+<br/><br/>
 ![Salt and Pepper Noised Lena](salt-and-pepper-noised-lena.png)
-<br/>
+<br/><br/>
 Çıktı Resmimiz
-<br/>
+<br/><br/>
 ![After Noise Reduction Lena](after-noise-reduction-lena.png)
-<br/>
+<br/><br/>
 Başka bir yazıda yeniden buluşmak dileğiyle, iyi çalışmalar.
