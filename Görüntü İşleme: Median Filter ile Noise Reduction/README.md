@@ -40,7 +40,7 @@ Girdi resmimiz:
 <br/><br/>
 ![Salt and Pepper Noised Lena](salt-and-pepper-noised-lena.png)
 <br/><br/>
-Çıktı Resmimiz
+Çıktı Resmimiz:
 <br/><br/>
 ![After Noise Reduction Lena](after-noise-reduction-lena.png)
 <br/><br/>
