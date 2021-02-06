@@ -1,3 +1,5 @@
+### Görüntü İşleme: Median Filter ile Noise Reduction
+
 Bu yazıda median filter kullanarak noise diye tabir edilen görüntü bozukluğunu gidermeyi anlatacağım.
 
 Öncelikle noise denilen şeyin ne olduğundan bahsetmek istiyorum. Noise dilimize gürültü olarak çevrilmiştir ve bir kaç farklı sebepten ötürü resimde noise oluşabilir.
