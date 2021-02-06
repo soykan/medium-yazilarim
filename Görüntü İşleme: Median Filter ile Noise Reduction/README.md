@@ -36,8 +36,10 @@ cv2.waitKey(0)
 
 Girdi resmimiz:
 <br/>
-![]()
+![Salt and Pepper Noised Lena](salt-and-pepper-noised-lena.png)
 <br/>
 Çıktı Resmimiz
 <br/>
-![]()
+![After Noise Reduction Lena](after-noise-reduction-lena.png)
+<br/>
+Başka bir yazıda yeniden buluşmak dileğiyle, iyi çalışmalar.
