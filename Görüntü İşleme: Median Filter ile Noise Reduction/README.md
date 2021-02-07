@@ -2,7 +2,7 @@
 
 Bu yazıda median filter kullanarak noise diye tabir edilen görüntü bozukluğunu gidermeyi anlatacağım.
 
-Öncelikle noise denilen şeyin ne olduğundan bahsetmek istiyorum. Noise dilimize gürültü olarak çevrilmiştir ve bir kaç farklı sebepten ötürü resimde noise oluşabilir.
+Öncelikle noise denilen şeyin ne olduğundan bahsetmek istiyorum. Noise dilimize gürültü veya parazit olarak çevrilmiştir ve bir kaç farklı sebepten ötürü resimde noise oluşabilir.
 
 Bu sebeplerden biri image sensor adı verilen resmi algılamak ve iletmek amacıyla kameralarda ve diğer görüntüleme cihazlarında kullanılan algılayıcılardır.
 
