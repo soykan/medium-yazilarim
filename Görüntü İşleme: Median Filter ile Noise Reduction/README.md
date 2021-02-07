@@ -14,7 +14,7 @@ Bu yazıda noise çeşitlerinden “salt and pepper noise” diğer adıyla “i
 
 Bu sorunu gidermek için median filtering kullanacağız. Median türkçede orta değer anlamına geliyor. İsminden de anlaşılabileceği üzere median filtering algoritması piksele ait komşu piksellerin ortancasının değerini piksele atamasıyla gerçekleşiyor.
 
-Median filtering yapabilmek için ilk aşama komşu piksellerdeki yoğunluk değerlerinin alınması ve ardından sıralanmasıdır. Sıralama işlemi gerçekleştikden sonra sıralamada orta sırada yer alan yoğunluk değeri piksele atanır.
+Median filtering yapabilmek için ilk aşama komşu piksellerdeki yoğunluk değerlerinin alınması ve ardından sıralanmasıdır. Sıralama işlemi gerçekleştikden sonra sıralamada orta sırada yer alan yoğunluk değeri piksele atanır. Bu işlem resimdeki her piksel değeri için gerçekleştirilir.
 
 Şimdi median filtering işlemini OpenCV de nasıl gerçekleyeceğimizi görelim.
 
